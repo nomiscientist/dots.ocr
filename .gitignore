@@ -80,7 +80,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -104,7 +103,6 @@ venv.bak/
 dmypy.json
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -121,3 +119,5 @@ dmypy.json
 temp/
 output/ 
 # playground/
+config.bat
+node_modules
